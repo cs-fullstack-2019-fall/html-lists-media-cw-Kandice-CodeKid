@@ -1,0 +1,49 @@
+body{
+    background-color: yellow;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+header{
+    border-radius: 25px;
+    border: 5px solid gold;
+    text-align: center;
+    color: gold;
+    background-color: royalblue;
+}
+section{
+    border-radius: 25px;
+    border: 5px solid gold;
+    width: 225px;
+    height: 350px;
+    float: left;
+    /*width: 150px;*/
+    background-color: rebeccapurple;
+}
+#left{
+    border-radius: 25px;
+    border: 5px solid rebeccapurple;
+    padding-left: 60px;
+    list-style-image: url("./img/cake.PNG");
+}
+aside{
+    float: right;
+    border-radius: 25px;
+    border: 5px solid gold;
+    /*width: 190px;*/
+}
+#dir{
+    background: purple;
+    border-radius: 25px;
+    border: 5px dashed lawngreen;
+}
+#directions{
+    border-radius: 25px;
+    border: 5px solid blue;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+
+
+}
